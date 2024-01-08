@@ -10,7 +10,16 @@
       <link>https://younghyopark.me/blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 27 Aug 2023 18:39:30 -0400</lastBuildDate><atom:link href="https://younghyopark.me/blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 06 Jan 2024 21:08:12 -0500</lastBuildDate><atom:link href="https://younghyopark.me/blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Automating Behavior Generation</title>
+      <link>https://younghyopark.me/blog/posts/automating-behavior-generation/</link>
+      <pubDate>Sat, 06 Jan 2024 21:08:12 -0500</pubDate>
+      
+      <guid>https://younghyopark.me/blog/posts/automating-behavior-generation/</guid>
+      <description>1. Motivation Paradigm Shift | Robotics community is currently facing a rapid paradigm shift: with better network architectures and new generative modeling techniques, learning-from-demonstration (LfD) approach is gaining its popularity all over again. We are seeing a lot of existential proofs showing that robots can indeed do many things autonomously in a reasonably realistic setting, using human-collected real-world demonstrations and relatively simple behavior cloning methods (with a few new tricks).</description>
+    </item>
+    
     <item>
       <title>Trip to Maine</title>
       <link>https://younghyopark.me/blog/posts/trip-to-maine/</link>
