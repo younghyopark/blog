@@ -3,9 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://younghyopark.me/blog/categories/</loc>
+    <lastmod>2024-01-07T15:45:14-05:00</lastmod>
   </url><url>
-    <loc>https://younghyopark.me/blog/tags/</loc>
+    <loc>https://younghyopark.me/blog/posts/</loc>
+    <lastmod>2024-01-07T15:45:14-05:00</lastmod>
+  </url><url>
+    <loc>https://younghyopark.me/blog/categories/research-thoughts/</loc>
+    <lastmod>2024-01-07T15:45:14-05:00</lastmod>
+  </url><url>
+    <loc>https://younghyopark.me/blog/posts/demonstration-and-rl/</loc>
+    <lastmod>2024-01-07T15:45:14-05:00</lastmod>
   </url><url>
     <loc>https://younghyopark.me/blog/</loc>
+    <lastmod>2024-01-07T15:45:14-05:00</lastmod>
+  </url><url>
+    <loc>https://younghyopark.me/blog/posts/automating-behavior-generation/</loc>
+    <lastmod>2024-01-06T21:08:12-05:00</lastmod>
+  </url><url>
+    <loc>https://younghyopark.me/blog/posts/locomotion-and-dexterous-manipulation/</loc>
+    <lastmod>2023-09-20T14:27:59-05:00</lastmod>
+  </url><url>
+    <loc>https://younghyopark.me/blog/categories/personal/</loc>
+    <lastmod>2023-08-27T18:39:30-04:00</lastmod>
+  </url><url>
+    <loc>https://younghyopark.me/blog/posts/trip-to-maine/</loc>
+    <lastmod>2023-08-27T18:39:30-04:00</lastmod>
+  </url><url>
+    <loc>https://younghyopark.me/blog/tags/</loc>
   </url>
 </urlset>
